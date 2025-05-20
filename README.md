@@ -25,7 +25,7 @@ Il permet d’ajouter des produits en les associant à une **famille** et une **
 ---
 ## 📷 Aperçu de l'application
 
-> `![Aperçu](./images/screenshot.png)`
+> ![Capture d’écran](images/screenshot.png)
 
 
 ---
